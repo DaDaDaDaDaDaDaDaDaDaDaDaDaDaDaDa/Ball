@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1700046221341132110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1700046221341132109}
+  - component: {fileID: 1700046221341132108}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1700046221341132109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1700046221341132110}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1700046221341132108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1700046221341132110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f2969b44ab305418a4ff45e98e61be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sounds:
+  - Name: 1
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: 72aa77e5f60320342b92aacc8afbca02, type: 3}
+    Volume: 1
+  - Name: 3
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: d9f5bad0db082e44a98eb17e8c6a7077, type: 3}
+    Volume: 1
+  - Name: 0
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: ffe2c23b9fb088448a0bcf91f936c64d, type: 3}
+    Volume: 1
+  - Name: 6
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: bfeb83bb047beee4f8ccc2e44f278f1d, type: 3}
+    Volume: 1
+  - Name: 4
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: c2cf58ee2d6dbdd4980b9a5c6b919272, type: 3}
+    Volume: 1
+  - Name: 2
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: c18300c4d6d388448a0a6cd8eb9015c4, type: 3}
+    Volume: 1
+  - Name: 5
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: b3ea8e08a8d72c44482dd20e37fffbce, type: 3}
+    Volume: 1
+  - Name: 7
+    IsLooping: 0
+    Clip: {fileID: 8300000, guid: e946dd6c958609445b2cd7543742e548, type: 3}
+    Volume: 1
+  MasterVolume: 1

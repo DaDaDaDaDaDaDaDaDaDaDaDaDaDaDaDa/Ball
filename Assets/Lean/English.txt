@@ -1,0 +1,12 @@
+//Main Menu
+WorldOneTitle = World One
+WorldOneDescription = Welcome, welcome
+WorldTwoTitle = TBD
+WorldTwoDesctiption = TBD
+WorldThreeTitle = TBD
+WorldThreeDesctiption = TBD
+WorldFourTitle = TBD
+WorldFourDesctiption = TBD
+Close = Close
+
+\nEnglish
