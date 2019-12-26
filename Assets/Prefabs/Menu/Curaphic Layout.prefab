@@ -1924,21 +1924,9 @@ MonoBehaviour:
   Cache: 0
   entries:
   - Name: WorldOneTitle
-    Text: World One
-  - Name: WorldOneDescription
     Text: Welcome, welcome
-  - Name: WorldTwoTitle
-    Text: TBD
-  - Name: WorldTwoDesctiption
-    Text: TBD
-  - Name: WorldThreeTitle
-    Text: TBD
-  - Name: WorldThreeDesctiption
-    Text: TBD
-  - Name: WorldFourTitle
-    Text: TBD
-  - Name: WorldFourDesctiption
-    Text: TBD
+  - Name: WorldOneDescription
+    Text: "c\u2312\u3063'\u03C9')\u3063"
   - Name: Close
     Text: Close
 --- !u!1 &947541166598985135
@@ -2069,19 +2057,7 @@ MonoBehaviour:
   - Name: WorldOneTitle
     Text: "\u4E00\u4E9B\u7B80\u5355\u7684\u5173\u5361"
   - Name: WorldOneDescription
-    Text: "\u5C0F\u4F19\u513F\uFF0C\u6765\uFF0C\u73A9\u73A9"
-  - Name: WorldTwoTitle
-    Text: "\u5F85\u5F00\u53D1..."
-  - Name: WorldTwoDesctiption
-    Text: "\u5F85\u5F00\u53D1..."
-  - Name: WorldThreeTitle
-    Text: "\u5F85\u5F00\u53D1..."
-  - Name: WorldThreeDesctiption
-    Text: "\u5F85\u5F00\u53D1..."
-  - Name: WorldFourTitle
-    Text: "\u5F85\u5F00\u53D1..."
-  - Name: WorldFourDesctiption
-    Text: "\u5F85\u5F00\u53D1..."
+    Text: "c\u2312\u3063'\u03C9')\u3063"
   - Name: Close
     Text: "\u5173\u95ED"
 --- !u!1 &947541167255855079
@@ -4791,7 +4767,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5C0F\u4F19\u513F\uFF0C\u6765\uFF0C\u73A9\u73A9"
+  m_Text: "c\u2312\u3063'\u03C9')\u3063"
 --- !u!114 &4848506880934204836
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22687,7 +22663,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5C0F\u4F19\u513F\uFF0C\u6765\uFF0C\u73A9\u73A9"
+  m_Text: "c\u2312\u3063'\u03C9')\u3063"
 --- !u!114 &4850241931008904626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30531,10 +30507,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4853216304095472351}
     m_Modifications:
-    - target: {fileID: 1499378710772794, guid: 90c1c6d928fc4c0429fd82a95f2c38b6, type: 3}
-      propertyPath: m_Name
-      value: Titles Mouse Follow
-      objectReference: {fileID: 0}
     - target: {fileID: 4515809537917422, guid: 90c1c6d928fc4c0429fd82a95f2c38b6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -30578,6 +30550,10 @@ PrefabInstance:
     - target: {fileID: 4515809537917422, guid: 90c1c6d928fc4c0429fd82a95f2c38b6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499378710772794, guid: 90c1c6d928fc4c0429fd82a95f2c38b6, type: 3}
+      propertyPath: m_Name
+      value: Titles Mouse Follow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 90c1c6d928fc4c0429fd82a95f2c38b6, type: 3}

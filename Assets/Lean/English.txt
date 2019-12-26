@@ -1,12 +1,6 @@
 //Main Menu
-WorldOneTitle = World One
-WorldOneDescription = Welcome, welcome
-WorldTwoTitle = TBD
-WorldTwoDesctiption = TBD
-WorldThreeTitle = TBD
-WorldThreeDesctiption = TBD
-WorldFourTitle = TBD
-WorldFourDesctiption = TBD
+WorldOneTitle = Welcome, welcome
+WorldOneDescription = c⌒っ'ω')っ
 Close = Close
 
 \nEnglish
