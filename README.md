@@ -7,6 +7,7 @@
 这是一个以Unity自带的物理引擎为机制做的小球游戏，是我业余时间做着玩的，我基本没花额外的时间在比较麻烦的方面，比如代码注释，性能优化等。
 
 不过我还是用到了很多外部的插件和资源，如下(*为免费)：
+
 1.*Mesh变形插件 - Deform(https://github.com/keenanwoodall/Deform)
 2.*多语言插件 - Lean(https://assetstore.unity.com/packages/tools/localization/lean-localization-28504)
 3.*UI - Michsky(https://github.com/Michsky/muip)
