@@ -2,7 +2,7 @@
 
 我不是什么大牛，不要对项目期望太高。
 
-本demo使用的是Unity 2019.3.0b9，比较新的Universal Rendering Pipeline。
+本demo使用的是Unity 2019.3.0b9，比较新的Universal Rendering Pipeline。（如果shader显示有问题，有可能是URP的版本不一致，去Package Manager里面升级一下）
 
 这是一个以Unity自带的物理引擎为机制做的小球游戏，是我业余时间做着玩的，我基本没花额外的时间在比较麻烦的方面，比如代码注释，性能优化等。
 
